@@ -14,7 +14,7 @@ body{
   position: relative;
   left: 50%;
   top: 50%;
-  transform: translate(-110%,-50%);
+  transform: translate(-240%,-50%);
   perspective: 1000px;
 }
 .cover{
