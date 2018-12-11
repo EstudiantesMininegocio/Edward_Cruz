@@ -4,7 +4,7 @@ html,body{
   height: 100%;
 }
 body{
-  background: url("df3.jpg");
+  background: url("df3.jpg");/*algo*/
   background-size: cover;
 }
 .container{
